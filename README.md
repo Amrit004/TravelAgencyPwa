@@ -13,6 +13,8 @@
 
 </div>
 
+![Wandr Screenshot](screenshot.png)
+
 ---
 
 An AI-powered travel planning progressive web app featuring NLP query processing, budget planning, and full offline capability using Service Workers and IndexedDB.
